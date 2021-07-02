@@ -5,14 +5,14 @@
 
 ## I'm a Student, Volunteer, Tech Enthusiast, and Developer !!
 
-- 🔭 I just realised, that I have to learn a lot
-- 🔭 I’m currently working on personal skills
+- 🔭 I just realised, that I have to learn a lot🙊
+- 🔭 I’m currently working on personal skills👩‍💻
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn as much as possible and apply to a College
-- 💬 Ask me about Nothing 🤣
+- 🥅 2021 Goals: Learn as much as possible and apply to a College😵
+- 💬 Ask me about Nothing ✖️
 - 📫 How to reach me: Anywhere
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to play drums while studying with pen or with hand on the bench😄
+- 😄 Pronouns: He/Him🧍
+- ⚡ Fun fact: I like to play drums while studying with pen or with hand on the bench 🥁
 
 
 ### Connect with me:
