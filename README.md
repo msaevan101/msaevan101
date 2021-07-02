@@ -41,7 +41,7 @@
 ---
 [website]: https://msaevan.com
 [twitter]: https://twitter.com/msaevan101
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://www.youtube.com/c/ShahriarAzadEvan
 [instagram]: https://instagram.com/msaevan101
 [linkedin]: https://linkedin.com/in/msaevan101
 [Whatsapp]: https://wa.me/01533784413
