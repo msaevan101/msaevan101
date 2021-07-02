@@ -15,6 +15,11 @@
 - ⚡ Fun fact: I like to play drums while studying
 
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-msaevan101.vercel.app/api/spotify-playing" alt="msaevan101 Spotify Playing" width="350" />](https://open.spotify.com/user/3rnehgf7bclfbmiua9dqkx49k)
+
+
 ### Connect with me:
 
 [<img align="left" alt="msaevan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
