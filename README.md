@@ -12,12 +12,7 @@
 - 💬 Ask me about Nothing 🤣
 - 📫 How to reach me: Anywhere
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to play drums while studying
-
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-msaevan101.vercel.app/api/spotify-playing" alt="msaevan101 Spotify Playing" width="350" />](https://open.spotify.com/user/3rnehgf7bclfbmiua9dqkx49k)
+- ⚡ Fun fact: I like to play drums while studying with pen or with hand on the bench😄
 
 
 ### Connect with me:
