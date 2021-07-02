@@ -8,7 +8,7 @@
 - 🔭 I just realised that I have to learn a lot: [Study hard!][Learn as much as you can]!
 - 🔭 I’m currently working on personal skills
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Learn as much as possible and apply to a College
 - 💬 Ask me about Nothing 🤣
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
