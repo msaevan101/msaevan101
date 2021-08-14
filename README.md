@@ -19,10 +19,11 @@
 
 [<img align="left" alt="msaevan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="msaevan101 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="msaevan101 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="msaevan101 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="msaevan101 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="msaevan101 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="msaevan101 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" />][Whatsapp]
+[<img align="left" alt="msaevan101 | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" />][Whatsapp]
 
 <br />
 
@@ -45,3 +46,4 @@
 [instagram]: https://instagram.com/msaevan101
 [linkedin]: https://linkedin.com/in/msaevan101
 [Whatsapp]: https://wa.me/01533784413
+[facebook]: https://facebook.com/shahriarazadevan
