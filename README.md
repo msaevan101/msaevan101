@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=msaevan.com&style=for-the-badge&url=https%3A%2F%2Fmsaevan.com)](https://msaevan.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/msaevan101?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmsaevan101&screen_name=msaevan101)
 
-<img align="right" alt="GIF" src="https://msaevan.com/msa.png" width="400" height="350" />
+<img align="right" alt="GIF" src="https://msaevan.com/msa.png" width="420" height="350" />
 ## I'm a Student, Volunteer, Tech Enthusiast, and Developer !!
 
 - 🔭 I just realised, that I have to learn a lot🙊
