@@ -40,6 +40,10 @@
 <br />
 <br />
 
+**📈 My GitHub Stats**
+
+<img src="https://github-readme-stats.vercel.app/api?username=msaevan101&show_icons=true&theme=gotham" alt="Shahriar" />
+
 ---
 [website]: https://msaevan.com
 [twitter]: https://twitter.com/msaevan101
