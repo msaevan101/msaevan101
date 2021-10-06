@@ -45,7 +45,7 @@
 
 ### 📈 My GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=msaevan101&show_icons=true&theme=gotham" alt="Shahriar" />
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=arifnezami&show_icons=true)[https://github.com/msaevan101]
 
 ---
 [website]: https://msaevan.com
