@@ -48,6 +48,7 @@
 ### 📈 My GitHub Stats:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=msaevan101&show_icons=true)](https://github.com/msaevan101)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msaevan101&theme=nightowl)](https://git.io/streak-stats)
 
 ---
 [website]: https://msaevan.com
