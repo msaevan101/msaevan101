@@ -49,7 +49,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=msaevan101&show_icons=true)](https://github.com/msaevan101)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msaevan101&theme=light)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msaevan101&layout=compact&theme=nightowl)](https://github.com/msaevan101/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msaevan101&layout=compact&theme=light)](https://github.com/msaevan101/github-readme-stats) 
 
 ---
 [website]: https://msaevan.com
