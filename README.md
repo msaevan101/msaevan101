@@ -49,7 +49,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=msaevan101&show_icons=true)](https://github.com/msaevan101)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msaevan101&theme=light)](https://git.io/streak-stats)
-<p align="center'>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msaevan101&layout=compact&theme=light)](https://github.com/msaevan101/github-readme-stats)</p>
+<p align="center'> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msaevan101&layout=compact&theme=light)](https://github.com/msaevan101/github-readme-stats) </p>
 <a href="https://github.com/msaevan101/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=msaevan101&theme=blue&hide_border=true">
 
