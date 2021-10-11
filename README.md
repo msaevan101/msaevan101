@@ -42,6 +42,8 @@
 
 <br/>
 
+###TrophiesGithub Profile Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=msaevan101&theme=discord&no-bg=true)](https://github.com/msaevan101/github-profile-trophy)
 
 ### 📈 My GitHub Stats:
 
