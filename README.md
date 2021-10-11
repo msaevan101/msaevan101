@@ -51,7 +51,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msaevan101&theme=light)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msaevan101&layout=compact&theme=light)](https://github.com/msaevan101/github-readme-stats)
 <a href="https://github.com/msaevan101/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=msaevan101&theme=light&hide_border=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=msaevan101&theme=light_blue&hide_border=true">
 
 ---
 [website]: https://msaevan.com
