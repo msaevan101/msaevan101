@@ -59,6 +59,11 @@
           
 <a href="https://github.com/msaevan101/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=msaevan101&theme=night&hide_border=true">
+                                                                                                          
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
 ---
 [website]: https://msaevan.com
