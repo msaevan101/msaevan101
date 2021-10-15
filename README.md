@@ -58,7 +58,7 @@
  </p>
           
 <a href="https://github.com/msaevan101/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=msaevan101&theme=nightowl&hide_border=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=msaevan101&theme=night-owl&hide_border=true">
                                                                                                           
 
 <p align="center">
