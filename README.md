@@ -56,13 +56,14 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msaevan101&layout=compact&theme=light)](https://github.com/msaevan101/github-readme-stats) 
           
  </p>
-          
-<a href="https://github.com/msaevan101/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=msaevan101&theme=nightowl_border=true">
+
+  <a href="https://github.com/msaevan101/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=msaevan101&theme=react-dark&hide_border=true">
+  </a> 
                                                                                                           
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 
 ---
