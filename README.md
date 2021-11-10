@@ -58,12 +58,12 @@
  </p>
 
   <a href="https://github.com/msaevan101/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=msaevan101&bg_color=white&color=blue&hide_border=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=msaevan101&bg_color=light_blue&hide_border=true">
   </a> 
                                                                                                           
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=200&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=auto&height=80&section=footer"/>
 </p>
 
 ---
