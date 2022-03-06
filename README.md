@@ -4,12 +4,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/msaevan101?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmsaevan101&screen_name=msaevan101)
 [![Facebook Follow](https://img.shields.io/badge/Facebook-white?/facebook/follow/shahriarazadevan?style=flat&logo=Facebook)](https://facebook.com/shahriarazadevan)
 
-<img align="right" alt="Shahriar" src="https://msaevan.com/msa.png" width="305px" height="260px"/>
+<img align="right" alt="Shahriar" src="https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/244460787_1499879990374375_5683769249067251916_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=174925&_nc_ohc=GujPFMhL5pUAX_MpUg8&tn=Cw8OgUbWRjK8Fxzv&_nc_ht=scontent.fcgp17-1.fna&oh=00_AT_gCxJ5dvHJehcuekDRmc6eQKzXeS4mzDYMp9IZZuqUTg&oe=6228AA6E" width="305px" height="260px"/>
 ## I'm a Student, Volunteer, Tech Enthusiast, and Developer !!
 
 - 🔭 I just realised, that I have to learn a lot🙊
 - 🔭 I’m currently working on personal skills👩‍💻
-- 🌱 I’m currently practicing for IELTS exam 🤣
+- 🌱 I’m currently practicing for IELTS exam😤
 - 🥅 2022 Goals: Learn as much as possible and apply to a College😵
 - 💬 Ask me about Nothing ✖️
 - 📫 How to reach me: Anywhere
