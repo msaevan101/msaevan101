@@ -1,10 +1,18 @@
-### Hi there, I'm Shahriar 👋
+<h1 align="center">Hi 👋, I'm Shahriar</h1>
+<h3 align="center">A passionate Learner from Bangladesh</h3>
 
-[![Website](https://img.shields.io/website?label=msaevan.com&style=for-the-badge&url=https%3A%2F%2Fmsaevan.com)](https://msaevan.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/msaevan101?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmsaevan101&screen_name=msaevan101)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=msaevan101&label=Profile%20views&color=0e75b6&style=flat" alt="msaevan101" /> </p>
 
-<img align="right" alt="Shahriar" src="https://msaevan.com/evan.jpg"/>
-## I'm a Student, Volunteer, Tech Enthusiast, and Developer !!
+<p align="left"> <a href="https://twitter.com/msaevan101" target="blank"><img src="https://img.shields.io/twitter/follow/msaevan101?logo=twitter&style=for-the-badge" alt="msaevan101" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/msaevan101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="msaevan101" height="30" width="40" /></a>
+<a href="https://twitter.com/msaevan101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msaevan101" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/msaevan101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msaevan101" height="30" width="40" /></a>
+<a href="https://fb.com/msaevan101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="msaevan101" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/shahriarazadevan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shahriarazadevan" height="30" width="40" /></a>
+</p>
 
 - 🔭 I just realised, that I have to learn a lot🙊
 - 🔭 I’m currently working on personal skills👩‍💻
@@ -15,16 +23,6 @@
 - 😄 Pronouns: He/Him🧍
 - ⚡ Fun fact: I like to play drums while studying with pen or with hand on the bench 🥁
 
-
-### Socials:
-
-[<img align="left" alt="msaevan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="msaevan101 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="msaevan101 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="msaevan101 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="msaevan101 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="msaevan101 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="msaevan101 | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" />][Whatsapp]
 
 <br />
 
@@ -70,22 +68,4 @@
 [Whatsapp]: https://wa.me/01533784413
 [facebook]: https://facebook.com/shahriarazadevan
 
-
-
-
-<h1 align="center">Hi 👋, I'm Shahriar</h1>
-<h3 align="center">A passionate Learner from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msaevan101&label=Profile%20views&color=0e75b6&style=flat" alt="msaevan101" /> </p>
-
-<p align="left"> <a href="https://twitter.com/msaevan101" target="blank"><img src="https://img.shields.io/twitter/follow/msaevan101?logo=twitter&style=for-the-badge" alt="msaevan101" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/msaevan101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="msaevan101" height="30" width="40" /></a>
-<a href="https://twitter.com/msaevan101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msaevan101" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/msaevan101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msaevan101" height="30" width="40" /></a>
-<a href="https://fb.com/msaevan101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="msaevan101" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shahriarazadevan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shahriarazadevan" height="30" width="40" /></a>
-</p>
 
