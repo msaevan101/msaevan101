@@ -7,8 +7,8 @@
 ### I'm a Student, Volunteer, Tech Enthusiast, and Developer !!
 
 - 🔭 I just realised, that I have to learn a lot🙊
-- 🔭 I’m currently working on personal skills👩‍💻
-- 🌱 I’m currently practicing for IELTS exam😤
+- 🔭 I’m currently working on hard and soft skills👩‍💻
+- 🌱 I’m currently practicing for SAT exam😤
 - 🥅 2022 Goals: Learn as much as possible and apply to a College😵
 - 💬 Ask me about Nothing ✖️
 - 📫 How to reach me: Anywhere
