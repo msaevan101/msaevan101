@@ -1,19 +1,19 @@
 ### Hi there, I'm Shahriar 👋
 
 
-[![Website](https://img.shields.io/website?label=iamevan.tel&style=for-the-badge&url=https%3A%2F%2Fiamevan.tel)](https://iamevan.tel)
+[![Website](https://img.shields.io/website?label=iamevan.tel&style=for-the-badge&url=https%3A%2F%2Fiamevan.tel)](https://msaevan.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/msaevan101?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmsaevan101&screen_name=msaevan101) <img src="https://komarev.com/ghpvc/?username=msaevan101" height="28 rem"></img>
 
 ### I'm a Student, Volunteer, Tech Enthusiast, and Developer !!
 
-- 🔭 I just realised, that I have to learn a lot🙊
+- 🔭 I just realized, that I have to learn a lot🙊
 - 🔭 I’m currently working on hard and soft skills👩‍💻
-- 🌱 I’m currently practicing for SAT exam😤
-- 🥅 2022 Goals: Learn as much as possible and apply to a College😵
+- 🌱 I’m currently participating in an exchange program😤
+- 🥅 2025 Goals: Learn as much as possible and keep on learning😵
 - 💬 Ask me about Nothing ✖️
 - 📫 How to reach me: Anywhere
 - 😄 Pronouns: He/Him🧍
-- ⚡ Fun fact: I like to play drums while studying with pen or with hand on the bench 🥁
+- ⚡ Fun fact: I like to play drums while studying with a pen or with hand on the bench 🥁
 
 
 ### Socials:
@@ -71,5 +71,4 @@
 [youtube]: https://www.youtube.com/c/ShahriarAzadEvan
 [instagram]: https://instagram.com/msaevan101
 [linkedin]: https://linkedin.com/in/msaevan101
-[Whatsapp]: https://wa.me/01533784413
 [facebook]: https://facebook.com/shahriarazadevan
